@@ -48,3 +48,6 @@ After the Download the Sample from this branch install the npm packages and Sync
 **npm install**
 
 **npm install @syncfusion/ej2-ng-grids --save**
+
+Now you can run the Integrated ASP core project.
+
