@@ -44,5 +44,7 @@ export class AppModuleShared {
 After the Download the Sample from this branch install the npm packages and Syncfusion packages from following commands in your root directory.
 
 **dotnet restore**
+
 **npm install**
+
 **npm install @syncfusion/ej2-ng-grids --save**
